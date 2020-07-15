@@ -3,10 +3,10 @@
 - 🔭 I’m currently working on building new and amazing mobile apps 
 - 🌱 I’m currently learning problem solving and algorithms. 
 - 👯 I’m looking to collaborate on any flutter projects.
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything tech related.
-- 📫 How to reach me: [Facebook](https://fb.com/tarekkma1) - [LinkedIn](https://www.linkedin.com/in/tarekkma/)
+- 📫 How to reach me: [tarekkma@gmail.com](mailto:tarekkma@gmail.com) - [Facebook](https://fb.com/tarekkma1) - [LinkedIn](https://www.linkedin.com/in/tarekkma/)
 <!-- - ⚡ Fun fact: ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 
 <!--
 **TarekkMA/tarekkma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
