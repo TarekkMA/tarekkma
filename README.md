@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![TarekkMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekkMA&show_icons=true&count_private=true&hide_title=true))](https://github.com/TarekkMA/TarekkMA)
+[![TarekkMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekkMA&show_icons=true&count_private=true&hide_title=true)](https://github.com/TarekkMA/TarekkMA)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekkMA&layout=compact)](https://github.com/TarekkMA?tab=repositories)
