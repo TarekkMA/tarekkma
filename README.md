@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 [![TarekkMA's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarekkMA&show_icons=true&count_private=true&hide_title=true)](https://github.com/TarekkMA/TarekkMA)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekkMA&layout=compact)](https://github.com/TarekkMA?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarekkMA&layout=compact&langs_count=10)](https://github.com/TarekkMA?tab=repositories)
