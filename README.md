@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building new and amazing mobile apps 
+- 🔭 I’m currently working on building new and amazing software.
 - 🌱 I’m currently learning problem solving and algorithms. 
-- 👯 I’m looking to collaborate on any flutter projects.
+- 👯 I’m looking to collaborate on any Flutter, Android, or Rust projects.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: [tarekkma@gmail.com](mailto:tarekkma@gmail.com) - [LinkedIn](https://www.linkedin.com/in/tarekkma/)
+- ⚡ Fun fact: I have 2 cats 😻 Bondok (Hazelnut) and Yasmine
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
